@@ -1,1 +1,23 @@
 
+- TimeBodyAccYZ
+- TimeGravityAccXYZ
+- TimeBodyAccJerkXYZ
+- TimeBodyGyroXYZ
+- TimeBodyGyroJerkXYZ
+- TimeBodyAccMag
+- TimeGravityAccMag
+- TimeBodyAccJerkMag
+- TimeBodyGyroMag
+- TimeBodyGyroJerkMag
+- FregBodyAccXYZ
+- FregBodyAccJerkXYZ
+- FregBodyGyroXYZ
+- FregBodyAccMag
+- FregBodyAccJerkMag
+- FregBodyGyroMag
+- FregBodyGyroJerkMag
+
+The set of variables that were estimated from these signals are: 
+
+- Mean: Mean value
+- Std: Standard deviation
